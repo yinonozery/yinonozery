@@ -5,7 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-236dab?style=flat&logo=linkedin&labelColor=236dab)](https://www.linkedin.com/in/yinon-ozery/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&color=BB001B)](mailto:yinonozery@gmail.com)
 
-A 4rd-year Software Engineering student, have an interest in computers and solving problems since an early age.
+A 4th-year Software Engineering student, have an interest in computers and solving problems since an early age.
 Love new challenges and expanding my interest.
 
 <br />
