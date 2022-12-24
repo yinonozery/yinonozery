@@ -14,7 +14,6 @@ willing to explore and learn new things.
 
 ## Stack
 <kbd>
-<a href="#">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" style="border-radius:50px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="50" />
@@ -25,5 +24,4 @@ willing to explore and learn new things.
   <img src="https://svgur.com/i/p0V.svg" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" height="50" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" height="50" />
-  </a>
 </kdb>
