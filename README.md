@@ -1,6 +1,6 @@
 ## Hi, I'm Yinon
 
-<img src="https://camo.githubusercontent.com/b40aa6e0a49e00065a11b3773f9f4d7098be2fed4da538a0a32abb74992a7869/68747470733a2f2f726973686176616e616e642e6769746875622e696f2f7374617469632f696d616765732f6772656574696e67732e676966" align="right" width="40%">
+<img src="https://user-images.githubusercontent.com/74764366/235980941-13080f3a-311a-46dc-b374-59912e1c0b89.png" align="right" width="40%">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-236dab?style=flat&logo=linkedin&labelColor=236dab)](https://www.linkedin.com/in/yinon-ozery/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&color=BB001B)](mailto:yinonozery@gmail.com)
