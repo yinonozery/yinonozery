@@ -1,6 +1,6 @@
 ## Hi, I'm Yinon
 
-<img src="https://user-images.githubusercontent.com/74764366/235980941-13080f3a-311a-46dc-b374-59912e1c0b89.png" align="right" width="40%">
+<img src="https://s11.gifyu.com/images/ScQPe.gif" align="right" width="40%">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-236dab?style=flat&logo=linkedin&labelColor=236dab)](https://www.linkedin.com/in/yinon-ozery/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&color=BB001B)](mailto:yinonozery@gmail.com)
